@@ -4,7 +4,6 @@
 
 ````sh
 
-
 flux bootstrap github \
   --token-auth \
   --owner=adriano1901 \

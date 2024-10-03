@@ -242,7 +242,7 @@ kubectl -n default create secret docker-registry dockerhub-credential --docker-u
 # build and push example-app-2
 
 ```
-cd kubernetes\fluxcd\repositories\example-app-2\
+cd kubernetes/fluxcd/repositories/example-app-2/
 ls
 cd src
 ls
